@@ -1,24 +1,14 @@
-# README
+# Dash
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Rails backend for the project. You can find the repo for the frontend <a href="https://github.com/byronskout/Dash">here</a>.
 
-Things you may want to cover:
+<h2> Features: </h2>
 
-* Ruby version
+* Ruby on Rails for backend RESTful API
 
-* System dependencies
+* PostgreSQL database
 
-* Configuration
+* JWT authentication for users
 
-* Database creation
+* Heroku for deployment
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
