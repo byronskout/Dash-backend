@@ -23,3 +23,5 @@
 /config/master.key
 .env
 env
+
+secrets.yml
